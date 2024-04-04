@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Course/1.0.0": {
+        "dependencies": {
+          "Course.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Course.dll": {}
+        }
+      },
+      "Course.Contracts/1.0.0": {
+        "runtime": {
+          "Course.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Course.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

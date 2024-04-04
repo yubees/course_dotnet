@@ -1,0 +1,11 @@
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\bin\Debug\net8.0\Course.Contracts.deps.json
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\bin\Debug\net8.0\Course.Contracts.dll
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\bin\Debug\net8.0\Course.Contracts.pdb
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\Course.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\Course.Contracts.AssemblyInfoInputs.cache
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\Course.Contracts.AssemblyInfo.cs
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\Course.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\Course.Contracts.dll
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\refint\Course.Contracts.dll
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\Course.Contracts.pdb
+C:\Users\Yubraj\Desktop\code\course system\Course.Contracts\obj\Debug\net8.0\ref\Course.Contracts.dll
