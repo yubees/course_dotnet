@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj": {}
+    "C:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj": {
+    "C:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj",
+        "projectUniqueName": "C:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj",
         "projectName": "learning system",
-        "projectPath": "c:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj",
+        "projectPath": "C:\\Users\\Yubraj\\Desktop\\code\\learning system\\learning system.csproj",
         "packagesPath": "C:\\Users\\Yubraj\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Yubraj\\Desktop\\code\\learning system\\obj\\",
+        "outputPath": "C:\\Users\\Yubraj\\Desktop\\code\\learning system\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yubraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
