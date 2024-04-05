@@ -1,0 +1,33 @@
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\appsettings.json
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\learning system.exe
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\learning system.deps.json
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\learning system.runtimeconfig.json
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\learning system.dll
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\learning system.pdb
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Yubraj\Desktop\code\learning system\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.csproj.AssemblyReference.cache
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.AssemblyInfoInputs.cache
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.AssemblyInfo.cs
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.csproj.CoreCompileInputs.cache
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets\msbuild.learning system.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets\msbuild.build.learning system.props
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learning system.props
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learning system.props
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\scopedcss\bundle\learning system.styles.css
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning.910601B8.Up2Date
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.dll
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\refint\learning system.dll
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.pdb
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\learning system.genruntimeconfig.cache
+c:\Users\Yubraj\Desktop\code\learning system\obj\Debug\net8.0\ref\learning system.dll
